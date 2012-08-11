@@ -1,4 +1,4 @@
 Self-Controller
 ===============
 
-Android app to control yourself
+Android app to control yourself better
